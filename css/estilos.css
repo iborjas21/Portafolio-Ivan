@@ -60,7 +60,8 @@ p{
 
 .cabecera{
     background-color: var(--gris-claro);  
-    width: 100%;  
+    width: 100%; 
+    margin-bottom: 3rem;
     
 }
 
